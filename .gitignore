@@ -1,2 +1,5 @@
-*.csv
-*.pkl
+.venv/
+__pycache__/
+*.py[cod]
+.env
+model.pkl
