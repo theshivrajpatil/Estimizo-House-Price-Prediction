@@ -1,0 +1,38 @@
+
+========================================
+  ESTIMIZO MODEL EVALUATION RESULTS
+========================================
+
+Model: California House Price Prediction
+
+Evaluation Metrics
+------------------
+MAE       : $15,766.50
+MSE       : 773,482,737.97
+RMSE      : $27,811.56
+R² Score  : 0.9410 (94.10%)
+
+Interpretation
+--------------
+MAE:
+Average absolute difference between actual
+and predicted house prices.
+
+MSE:
+Average squared prediction error.
+
+RMSE:
+Prediction error measured in the target's
+units (dollars), with greater sensitivity
+to larger errors.
+
+R² Score:
+Proportion of variation in house prices
+explained by the model on the test dataset.
+
+Note:
+Results describe performance on this test
+split. They do not guarantee real-world
+prediction accuracy.
+
+========================================
